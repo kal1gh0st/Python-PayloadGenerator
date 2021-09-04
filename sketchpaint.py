@@ -5,7 +5,7 @@
 import Tkinter, tkColorChooser, string, tkMessageBox, cPickle, tkFileDialog
 
 VERSIONE="SketchPynt! v0.1"
-AUTORE="SketchPynt!\n[PF] Paolo Frigo"
+AUTORE="SketchPynt!\n[PF] kal1gh0st"
 #DEFAULT, Impostazioni predefinite
 COLORE="#000000"     #Colore della matita 
 SFONDO="#FFFFFF"     #Colore di sfondo e della gomma
