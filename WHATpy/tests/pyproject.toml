@@ -2,7 +2,7 @@
 name = "pywhat"
 version = "1.1.0"
 description = "What is that thing?"
-authors = ["Bee <github@skerritt.blog>"]
+authors = ["Bee <github@github.blog>"]
 license = "GPL-3.0-or-later"
 documentation = "https://github.com/bee-san/pyWhat/wiki"
 readme = "README.md"
