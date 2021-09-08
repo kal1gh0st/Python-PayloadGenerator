@@ -1,4 +1,3 @@
-# This was written in 2006 and released as a micro open-source project for education purpose in 2009. 
 # It's one of my first python pet project
 # All variable and function names are in Italian.
 
